@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF97810-A3D7-40C2-9BFA-22104BFE0239}|Class 1th (Stream)\\Class 1th (Stream).vcxproj|C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Class 1th (Stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FF97810-A3D7-40C2-9BFA-22104BFE0239}|Class 1th (Stream)\\Class 1th (Stream).vcxproj|solutionrelative:Class 1th (Stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +42,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Class 1th (Stream)\\source.cpp",
+              "RelativeDocumentMoniker": "Class 1th (Stream)\\source.cpp",
+              "ToolTip": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Class 1th (Stream)\\source.cpp",
+              "RelativeToolTip": "Class 1th (Stream)\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-11T11:08:44.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:04:49.266Z",
               "EditorCaption": ""

@@ -1,5 +1,2 @@
 ﻿  Program.cpp
-C:\Users\rudak\OneDrive\바탕 화면\Program\Program\Program.cpp(66,17): error C2440: '초기화 중': 'int *'에서 'int [5]'(으)로 변환할 수 없습니다.
-      C:\Users\rudak\OneDrive\바탕 화면\Program\Program\Program.cpp(66,17):
-      참조 또는 배열에 대한 포인터로의 변환은 있지만 배열 형식으로의 변환은 없습니다.
-  
+  Program.vcxproj -> C:\Users\rudak\OneDrive\바탕 화면\경만\코딩\SBS-GamePrograming2\Program\x64\Debug\Program.exe
