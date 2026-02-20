@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Potion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Consumable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Consumable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\stdafx.h",
+              "RelativeDocumentMoniker": "Program\\stdafx.h",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\stdafx.h",
+              "RelativeToolTip": "Program\\stdafx.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-20T12:06:49.725Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
@@ -54,65 +64,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Potion.cpp",
-              "DocumentMoniker": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Potion.cpp",
-              "RelativeDocumentMoniker": "Program\\Potion.cpp",
-              "ToolTip": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Potion.cpp",
-              "RelativeToolTip": "Program\\Potion.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-19T12:27:06.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Potion.h",
-              "DocumentMoniker": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Potion.h",
-              "RelativeDocumentMoniker": "Program\\Potion.h",
-              "ToolTip": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Potion.h",
-              "RelativeToolTip": "Program\\Potion.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-19T12:26:16.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Consumable.cpp",
-              "DocumentMoniker": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Consumable.cpp",
-              "RelativeDocumentMoniker": "Program\\Consumable.cpp",
-              "ToolTip": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Consumable.cpp",
-              "RelativeToolTip": "Program\\Consumable.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Title": "Message.cpp",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Message.cpp",
+              "RelativeDocumentMoniker": "Program\\Message.cpp",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Message.cpp",
+              "RelativeToolTip": "Program\\Message.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-19T12:08:13.182Z",
+              "WhenOpened": "2026-02-20T12:10:13.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Consumable.h",
-              "DocumentMoniker": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Consumable.h",
-              "RelativeDocumentMoniker": "Program\\Consumable.h",
-              "ToolTip": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Consumable.h",
-              "RelativeToolTip": "Program\\Consumable.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Message.h",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Message.h",
+              "RelativeDocumentMoniker": "Program\\Message.h",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Message.h",
+              "RelativeToolTip": "Program\\Message.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-19T12:08:02.119Z",
+              "WhenOpened": "2026-02-20T12:09:56.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program\\Program.cpp",
-              "ToolTip": "C:\\Users\\rudak\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:04:49.266Z",
               "EditorCaption": ""
