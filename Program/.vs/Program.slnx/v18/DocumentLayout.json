@@ -7,16 +7,36 @@
       "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Message.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Strength.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Message.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Intelligence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Intelligence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Strength.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Strength.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Dexterity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Dexterity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Dexterity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Dexterity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Intelligence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Intelligence.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Stat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Stat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Stat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Stat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,22 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 12,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "stdafx.h",
-              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\stdafx.h",
-              "RelativeDocumentMoniker": "Program\\stdafx.h",
-              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\stdafx.h",
-              "RelativeToolTip": "Program\\stdafx.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-20T12:06:49.725Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
@@ -64,28 +70,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Message.cpp",
-              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Message.cpp",
-              "RelativeDocumentMoniker": "Program\\Message.cpp",
-              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Message.cpp",
-              "RelativeToolTip": "Program\\Message.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-20T12:10:13.909Z",
+              "DocumentIndex": 1,
+              "Title": "Strength.h",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Strength.h",
+              "RelativeDocumentMoniker": "Program\\Strength.h",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Strength.h",
+              "RelativeToolTip": "Program\\Strength.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-23T12:18:27.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Message.h",
-              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Message.h",
-              "RelativeDocumentMoniker": "Program\\Message.h",
-              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Message.h",
-              "RelativeToolTip": "Program\\Message.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Intelligence.h",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Intelligence.h",
+              "RelativeDocumentMoniker": "Program\\Intelligence.h",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Intelligence.h",
+              "RelativeToolTip": "Program\\Intelligence.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-20T12:09:56.093Z",
+              "WhenOpened": "2026-02-23T12:18:26.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dexterity.h",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Dexterity.h",
+              "RelativeDocumentMoniker": "Program\\Dexterity.h",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Dexterity.h",
+              "RelativeToolTip": "Program\\Dexterity.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-23T12:18:25.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Stat.h",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Stat.h",
+              "RelativeDocumentMoniker": "Program\\Stat.h",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Stat.h",
+              "RelativeToolTip": "Program\\Stat.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-23T12:18:27.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dexterity.cpp",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Dexterity.cpp",
+              "RelativeDocumentMoniker": "Program\\Dexterity.cpp",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Dexterity.cpp",
+              "RelativeToolTip": "Program\\Dexterity.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-23T11:43:05.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Strength.cpp",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Strength.cpp",
+              "RelativeDocumentMoniker": "Program\\Strength.cpp",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Strength.cpp",
+              "RelativeToolTip": "Program\\Strength.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-23T11:41:36.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Intelligence.cpp",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Intelligence.cpp",
+              "RelativeDocumentMoniker": "Program\\Intelligence.cpp",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Intelligence.cpp",
+              "RelativeToolTip": "Program\\Intelligence.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-23T12:21:50.985Z",
               "EditorCaption": ""
             },
             {
@@ -96,9 +167,22 @@
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-10T11:04:49.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stat.cpp",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Stat.cpp",
+              "RelativeDocumentMoniker": "Program\\Stat.cpp",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Stat.cpp",
+              "RelativeToolTip": "Program\\Stat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-23T11:35:32.422Z",
               "EditorCaption": ""
             }
           ]

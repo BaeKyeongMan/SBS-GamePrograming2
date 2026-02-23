@@ -1,5 +1,8 @@
 ﻿#include "Message.h"
-#include <iostream>
+#include "Stat.h"
+#include "Strength.h"
+#include "Intelligence.h"
+#include "Dexterity.h"
 
 int main()
 {
@@ -11,15 +14,38 @@ int main()
 	// 같은 이름의 함수를 매개 변수의 자료형과 매개 변수의
 	// 수로 구분하여 여러 개를 선언할 수 있는 기능입니다.
 
-	Message message;
-	message.Send("efgh");
-	message.Send(144);
-	message.Send("abcd ", 15);
+	//Message message;
+	//message.Send("This program connot be executed");
+	//message.Send(144);
+	//message.Send("Identify the issue frequency signal : ", 60);
 	
 	// 함수의 오버로딩의 경우 함수의 매개 변수에 전달하는 인수의
 	// 형태를 보고 호출하므로, 반환형으로 함수의 오버로딩을 생성할 수 없습니다.
 
 #pragma endregion
+
+#pragma region 오버라이딩
+	// 상위 클래스의 함수를 하위 클래서에서 재정의하여 사용하는 방법입니다.
+	
+	Stat *stat;
+	Strength strength;
+	Dexterity dexterity;
+	Intelligence intelligence;
+	
+	
+	
+	
+
+#pragma endregion
+
+
+#pragma region 가상 함수
+	// 싱행 시간에 상위 클래스에 대한 참조로
+	// 하위 클래스에 재정의된 함수를 호출하는 함수입니다
+
+	// 
+#pragma endregion
+
 
 
 	// 다형성은 컴파일 시점에서 함수의 속성이 결정되는

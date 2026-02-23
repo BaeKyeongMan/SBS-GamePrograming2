@@ -129,12 +129,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dexterity.cpp" />
+    <ClCompile Include="Intelligence.cpp" />
     <ClCompile Include="Message.cpp" />
     <ClCompile Include="Program.cpp" />
+    <ClCompile Include="Stat.cpp" />
+    <ClCompile Include="Strength.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Dexterity.h" />
+    <ClInclude Include="Intelligence.h" />
     <ClInclude Include="Message.h" />
+    <ClInclude Include="Stat.h" />
     <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Strength.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
