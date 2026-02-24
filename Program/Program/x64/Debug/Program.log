@@ -1,59 +1,7 @@
-﻿  Program.cpp
-C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,2): error C2679: 이항 '=': 오른쪽 피연산자로 'Strength *' 형식을 사용하는 연산자가 없거나 허용되는 변환이 없습니다.
-      C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Stat.h(8,1):
-      'Stat &Stat::operator =(Stat &&)'일 수 있습니다.
-          C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,2):
-          'Stat &Stat::operator =(Stat &&)': 인수 2을(를) 'Strength *'에서 'Stat &&'(으)로 변환할 수 없습니다.
-              C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-              원인: 'Strength *'에서 'Stat'(으)로 변환할 수 없습니다.
-              C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-              'Stat::Stat': 모든 인수 형식을 변환할 수 있는 오버로드된 함수가 없습니다.
-                  C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Stat.h(8,1):
-                  'Stat::Stat(Stat &&)'일 수 있습니다.
-                      C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                      'Stat::Stat(Stat &&)': 인수 1을(를) 'Strength *'에서 'Stat &&'(으)로 변환할 수 없습니다.
-                          C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                          원인: 'Strength *'에서 'Stat'(으)로 변환할 수 없습니다.
-                          C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                          변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
-                  C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Stat.h(8,1):
-                  또는       'Stat::Stat(const Stat &)'
-                      C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                      'Stat::Stat(const Stat &)': 인수 1을(를) 'Strength *'에서 'const Stat &'(으)로 변환할 수 없습니다.
-                          C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                          원인: 'Strength *'에서 'const Stat'(으)로 변환할 수 없습니다.
-                          C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                          변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
-                  C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                  인수 목록 '(Strength *)'을(를) 일치시키는 동안
-      C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Stat.h(8,1):
-      또는       'Stat &Stat::operator =(const Stat &)'
-          C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,2):
-          'Stat &Stat::operator =(const Stat &)': 인수 2을(를) 'Strength *'에서 'const Stat &'(으)로 변환할 수 없습니다.
-              C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-              원인: 'Strength *'에서 'const Stat'(으)로 변환할 수 없습니다.
-              C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-              'Stat::Stat': 모든 인수 형식을 변환할 수 있는 오버로드된 함수가 없습니다.
-                  C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Stat.h(8,1):
-                  'Stat::Stat(Stat &&)'일 수 있습니다.
-                      C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                      'Stat::Stat(Stat &&)': 인수 1을(를) 'Strength *'에서 'Stat &&'(으)로 변환할 수 없습니다.
-                          C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                          원인: 'Strength *'에서 'Stat'(으)로 변환할 수 없습니다.
-                          C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                          변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
-                  C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Stat.h(8,1):
-                  또는       'Stat::Stat(const Stat &)'
-                      C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                      'Stat::Stat(const Stat &)': 인수 1을(를) 'Strength *'에서 'const Stat &'(으)로 변환할 수 없습니다.
-                          C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                          원인: 'Strength *'에서 'const Stat'(으)로 변환할 수 없습니다.
-                          C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                          변환하려면 둘째 사용자 정의 변환 연산자 또는 생성자가 있어야 합니다.
-                  C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,9):
-                  인수 목록 '(Strength *)'을(를) 일치시키는 동안
-      C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,2):
-      인수 목록 '(Stat, Strength *)'을(를) 일치시키는 동안
-  
-C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,22): error C2146: 구문 오류: ';'이(가) 'Enhance' 식별자 앞에 없습니다.
-C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Program\Program.cpp(35,22): error C3861: 'Enhance': 식별자를 찾을 수 없습니다.
+﻿  Dexterity.cpp
+  Intelligence.cpp
+  Program.cpp
+  Stat.cpp
+  Strength.cpp
+  코드를 생성하고 있습니다...
+  Program.vcxproj -> C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\x64\Debug\Program.exe

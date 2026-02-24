@@ -3,6 +3,7 @@
 class Intelligence : public Stat
 {
 public:
-    void Enhance();
+    virtual void Enhance() override;
+    virtual ~Intelligence();
 };
 

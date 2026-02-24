@@ -1,4 +1,5 @@
-﻿#include "Message.h"
+﻿#include "stdafx.h"
+#include "Message.h"
 #include "Stat.h"
 #include "Strength.h"
 #include "Intelligence.h"
@@ -27,10 +28,17 @@ int main()
 #pragma region 오버라이딩
 	// 상위 클래스의 함수를 하위 클래서에서 재정의하여 사용하는 방법입니다.
 	
-	Stat *stat;
-	Strength strength;
-	Dexterity dexterity;
-	Intelligence intelligence;
+	//Strength strength;
+
+	//Dexterity dexterity;
+
+	//Intelligence intelligence;
+
+	//strength.Enhance();
+
+	//dexterity.Enhance();
+
+	//intelligence.Enhance();
 	
 	
 	
@@ -43,7 +51,46 @@ int main()
 	// 싱행 시간에 상위 클래스에 대한 참조로
 	// 하위 클래스에 재정의된 함수를 호출하는 함수입니다
 
-	// 
+	Stat* pointer = nullptr;
+
+	int choice = 0;
+
+	while (1)
+	{
+		cout << "증가시킬 스탯을 입력해주세요" << endl;
+		cout << "힘 : 1, 민첩 : 2, 지능 : 3" << endl;
+		cout << "선택 : ";
+		cin >> choice;
+
+		switch (choice)
+		{
+		case 1: pointer = new Strength;
+			break;
+
+		case 2: pointer = new Dexterity;
+			break;
+
+		case 3: pointer = new Intelligence;
+			break;
+
+		default: cout << "잘못된 입력입니다. 다시 입력해주세요\n" << endl;
+			continue;
+		}
+
+		pointer->Enhance();
+
+		delete pointer;
+
+		break;
+
+		// 가상합수는 한 개 이상의 가상 함수를 포함하는 클래스가
+		// 있을 때 객체 주소에 가상 함수 테이블을 추가합니다
+	}
+
+
+	// 가상 함수의 경우 가상 함수 테이블을 사용하여 호출되는
+	// 함수를 실행 시간에 결정하며, 정적으로 선언된 함수는
+	// 가상 함수로 선언할 수 없습니다.
 #pragma endregion
 
 
