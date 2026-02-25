@@ -18,39 +18,24 @@
     <ClCompile Include="Program.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Message.cpp">
+    <ClCompile Include="Block.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Stat.cpp">
+    <ClCompile Include="Stone.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Strength.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Dexterity.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Intelligence.cpp">
+    <ClCompile Include="Concrete.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stdafx.h">
+    <ClInclude Include="Block.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Message.h">
+    <ClInclude Include="Stone.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Stat.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Strength.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Dexterity.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="Intelligence.h">
+    <ClInclude Include="Concrete.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
