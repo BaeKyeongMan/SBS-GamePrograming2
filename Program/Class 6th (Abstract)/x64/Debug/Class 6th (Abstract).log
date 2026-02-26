@@ -1,0 +1,7 @@
+﻿  Block.cpp
+  Concrete.cpp
+  Program.cpp
+  Stone.cpp
+  source.cpp
+C:\Users\rudak\Desktop\경만\코딩\SBS-GamePrograming2\Program\Class 6th (Abstract)\source.cpp(1,10): error C1083: 포함 파일을 열 수 없습니다. 'stdafx.h': No such file or directory
+  코드를 생성하고 있습니다...

@@ -139,7 +139,6 @@
     <ClInclude Include="..\Program\Intelligence.h" />
     <ClInclude Include="..\Program\Message.h" />
     <ClInclude Include="..\Program\Stat.h" />
-    <ClInclude Include="..\Program\stdafx.h" />
     <ClInclude Include="..\Program\Strength.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

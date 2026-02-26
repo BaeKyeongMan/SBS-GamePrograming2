@@ -7,24 +7,12 @@
       "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Stone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Stone.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Concrete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Concrete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Concrete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Concrete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Stone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Stone.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,66 +47,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Stone.cpp",
-              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Stone.cpp",
-              "RelativeDocumentMoniker": "Program\\Stone.cpp",
-              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Stone.cpp",
-              "RelativeToolTip": "Program\\Stone.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Title": "Vector2.cpp",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Vector2.cpp",
+              "RelativeDocumentMoniker": "Program\\Vector2.cpp",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Vector2.cpp",
+              "RelativeToolTip": "Program\\Vector2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-25T12:23:22.741Z",
+              "WhenOpened": "2026-02-26T12:05:37.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Concrete.cpp",
-              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Concrete.cpp",
-              "RelativeDocumentMoniker": "Program\\Concrete.cpp",
-              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Concrete.cpp",
-              "RelativeToolTip": "Program\\Concrete.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-25T12:23:16.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Concrete.h",
-              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Concrete.h",
-              "RelativeDocumentMoniker": "Program\\Concrete.h",
-              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Concrete.h",
-              "RelativeToolTip": "Program\\Concrete.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Title": "Vector2.h",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Vector2.h",
+              "RelativeDocumentMoniker": "Program\\Vector2.h",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Vector2.h",
+              "RelativeToolTip": "Program\\Vector2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-25T12:21:16.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Stone.h",
-              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Stone.h",
-              "RelativeDocumentMoniker": "Program\\Stone.h",
-              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Stone.h",
-              "RelativeToolTip": "Program\\Stone.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-25T12:20:51.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Block.h",
-              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Block.h",
-              "RelativeDocumentMoniker": "Program\\Block.h",
-              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Block.h",
-              "RelativeToolTip": "Program\\Block.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-25T12:20:38.792Z",
+              "WhenOpened": "2026-02-26T12:05:16.964Z",
               "EditorCaption": ""
             },
             {
@@ -129,9 +78,9 @@
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-10T11:04:49.266Z",
+              "WhenOpened": "2026-02-26T11:36:06.803Z",
               "EditorCaption": ""
             }
           ]
