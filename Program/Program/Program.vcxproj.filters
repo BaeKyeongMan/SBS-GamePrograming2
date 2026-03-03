@@ -15,19 +15,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Program.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="Vector2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="stdafx.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Vector2.h">
+    <ClInclude Include="Container.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Program.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Container.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

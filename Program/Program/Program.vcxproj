@@ -19,12 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Program.cpp" />
-    <ClCompile Include="Vector2.cpp" />
+    <ClInclude Include="Container.h" />
+    <ClInclude Include="stdafx.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stdafx.h" />
-    <ClInclude Include="Vector2.h" />
+    <ClCompile Include="Container.cpp" />
+    <ClCompile Include="Program.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>

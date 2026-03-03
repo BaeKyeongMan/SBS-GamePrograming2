@@ -7,6 +7,7 @@
   <Project Path="Class 4th (Inheritance)/Class 4th (Inheritance).vcxproj" Id="400aeae5-00fd-4eb2-9c8b-8581d82331b4" />
   <Project Path="Class 5th (Polymorphism)/Class 5th (Polymorphism).vcxproj" Id="0b9a97dd-26ee-4b5f-a6b7-f2cedbaf3ba6" />
   <Project Path="Class 6th (Abstract)/Class 6th (Abstract).vcxproj" Id="f38294ad-12ef-410c-96bd-a077c22ba76f" />
+  <Project Path="Class 7th (Encapsulation)/Class 7th (Encapsulation).vcxproj" Id="dfa9f764-5a1a-4d6e-81cd-4e3e78cf3ab1" />
   <Project Path="Class3th (Constructor &amp; Destructor)/Class3th (Constructor &amp; Destructor).vcxproj" Id="89b70121-f02e-417b-a532-e254613c306b" />
   <Project Path="Program/Program.vcxproj" Id="371d3151-15da-4649-a376-184e31ebb914" />
 </Solution>

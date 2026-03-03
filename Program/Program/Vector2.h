@@ -6,5 +6,7 @@ private:
 
 public:
 	Vector2(int x, int y);
+
+	Vector2 operator + (const Vector2 & clone);
 };
 

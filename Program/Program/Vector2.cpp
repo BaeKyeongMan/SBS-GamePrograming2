@@ -8,3 +8,10 @@ Vector2::Vector2(int x, int y)
 	this->y = y;
 }
 
+Vector2 Vector2::operator+(const Vector2 & clone)
+{
+	Vector2 vector2(x + clone.x, y + clone.y);
+
+	return vector2;
+}
+

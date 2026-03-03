@@ -1,20 +1,25 @@
 ﻿#include "stdafx.h"
-#include "Vector2.h"
+
+template <typename T>
+
+bool Same(T left, T right)
+{
+	return left == right;
+}
 
 int main()
 {
-#pragma region 캡슐화
-	// 객체의 속성과 기능을 하나의 단위로 합친 다음 외부에서
-	// 필요한 정보만 접근할 수 있도록 제한하는 기능입니다.
+#pragma region 템플릿
+	// 데이터 형식에 의존하지 않고, 하나의 값이 여러 다른 데이터
+	// 형식을 가질 수 있는 기술에 중점을 두어 재사용성을 높일 수
+	// 있는 기능입니다.
 
-	Vector2 point1D(1, 0);
-	Vector2 point2D(0, 1);
-
-	//Vector2 direction = point1D + point2D;
+	cout << Same('A', 'B') << endl;
+	cout << Same(10, 10) << endl;
+	cout << Same(3.5f, 6.6f) << endl;
+	cout << Same("aef", "aef") << endl;
 	
-
 #pragma endregion
-	
 
 	return 0;
 }
