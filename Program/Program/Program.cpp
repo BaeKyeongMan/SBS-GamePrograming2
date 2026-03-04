@@ -1,10 +1,17 @@
 ﻿#include "stdafx.h"
+#include "container.h"
 
 template <typename T>
 
 bool Same(T left, T right)
 {
 	return left == right;
+}
+
+template<>
+bool Same(Container<int> & left, Container<int> & right)
+{
+	
 }
 
 int main()
@@ -19,7 +26,15 @@ int main()
 	cout << Same(3.5f, 6.6f) << endl;
 	cout << Same("aef", "aef") << endl;
 	
+	Container<int> container(5);
+
 #pragma endregion
+
+#pragma region 템플릿 특수화
+
+
+#pragma endregion
+
 
 	return 0;
 }
