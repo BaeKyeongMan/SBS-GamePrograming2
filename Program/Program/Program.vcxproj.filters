@@ -18,7 +18,10 @@
     <ClInclude Include="stdafx.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Container.h">
+    <ClInclude Include="Material.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
@@ -26,7 +29,10 @@
     <ClCompile Include="Program.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Container.cpp">
+    <ClCompile Include="Material.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Container.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Container.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{371D3151-15DA-4649-A376-184E31EBB914}|Program\\Program.vcxproj|solutionrelative:Program\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,39 +46,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Container.cpp",
-              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Container.cpp",
-              "RelativeDocumentMoniker": "Program\\Container.cpp",
-              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Container.cpp",
-              "RelativeToolTip": "Program\\Container.cpp",
-              "ViewState": "AgIAABYAAAAAAAAAAAAvwBwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-03T12:35:09.641Z",
+              "DocumentIndex": 2,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Resource.h",
+              "RelativeDocumentMoniker": "Program\\Resource.h",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Resource.h",
+              "RelativeToolTip": "Program\\Resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-05T12:18:40.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Container.h",
-              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Container.h",
-              "RelativeDocumentMoniker": "Program\\Container.h",
-              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Container.h",
-              "RelativeToolTip": "Program\\Container.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-03T12:32:58.747Z",
+              "Title": "Resource.cpp",
+              "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Resource.cpp",
+              "RelativeDocumentMoniker": "Program\\Resource.cpp",
+              "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Resource.cpp",
+              "RelativeToolTip": "Program\\Resource.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-05T12:18:57.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cpp",
               "DocumentMoniker": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program\\Program.cpp",
               "ToolTip": "C:\\Users\\rudak\\Desktop\\\uACBD\uB9CC\\\uCF54\uB529\\SBS-GamePrograming2\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-03T12:00:35.443Z",
               "EditorCaption": ""

@@ -9,8 +9,6 @@ public:
 	Container(int allocateSize);
 	
 	void Push(T data);
-	
-	const int& Sum();
 
 	~Container();
 

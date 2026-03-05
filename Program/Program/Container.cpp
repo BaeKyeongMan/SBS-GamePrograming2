@@ -25,19 +25,6 @@ void Container<T>::Push(T data)
 }
 
 template<typename T>
-const int& Container<T>::Sum()
-{
-	int total = 0;
-
-	for (int i = 0; i < size; i++)
-	{
-		total += list[i];
-	}
-
-	return total;
-}
-
-template<typename T>
 Container<T>::~Container()
 {
 	delete[] list;
